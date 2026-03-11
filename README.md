@@ -1,8 +1,8 @@
-# salesdb: Sistema de Gerenciamento de Vendas com Spring Boot e JPA
+# MarketData: Sistema de Gerenciamento de Vendas com Spring Boot e JPA
 
 ## Descrição do Projeto
 
-O `salesdb` é um projeto robusto desenvolvido com Spring Boot, projetado para gerenciar dados de vendas de forma eficiente. Ele utiliza Spring Data JPA para persistência de dados, oferecendo uma solução completa para operações CRUD (Create, Read, Update, Delete) em entidades relacionadas a vendas. Este sistema é ideal para aplicações que necessitam de um backend sólido para manipulação de informações de mercado e vendas.
+O `MarketData` é um projeto robusto desenvolvido com Spring Boot, projetado para gerenciar dados de vendas de forma eficiente. Ele utiliza Spring Data JPA para persistência de dados, oferecendo uma solução completa para operações CRUD (Create, Read, Update, Delete) em entidades relacionadas a vendas. Este sistema é ideal para aplicações que necessitam de um backend sólido para manipulação de informações de mercado e vendas.
 
 ## Tecnologias Utilizadas
 
